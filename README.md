@@ -9,6 +9,7 @@
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shivam-singh084/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -50,6 +51,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shivam-singh084/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivam-singh084/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivam-singh084/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shivam-singh084/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivam-singh084/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivam-singh084/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
