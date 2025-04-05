@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivam-singh084/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
@@ -133,4 +134,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
