@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shivam-singh084/leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/shivam-singh084/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/shivam-singh084/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivam-singh084/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
 ## Queue
 |  |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/shivam-singh084/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shivam-singh084/leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/shivam-singh084/leetcode/tree/master/0344-reverse-string) |
 ## String Matching
