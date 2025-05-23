@@ -26,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-singh084/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam-singh084/leetcode/tree/master/0344-reverse-string) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-singh084/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/shivam-singh084/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
