@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shivam-singh084/leetcode/tree/master/0498-diagonal-traverse) |
@@ -64,6 +65,7 @@
 | [0047-permutations-ii](https://github.com/shivam-singh084/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shivam-singh084/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
 ## Queue
 |  |
@@ -135,6 +137,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -166,4 +169,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
