@@ -35,6 +35,7 @@
 | [0022-generate-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -186,4 +187,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivam-singh084/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
