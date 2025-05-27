@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/shivam-singh084/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -67,6 +68,7 @@
 | [0022-generate-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam-singh084/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivam-singh084/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/shivam-singh084/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
@@ -186,6 +189,7 @@
 | [0051-n-queens](https://github.com/shivam-singh084/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shivam-singh084/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +213,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
