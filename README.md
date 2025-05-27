@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam-singh084/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/shivam-singh084/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivam-singh084/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivam-singh084/leetcode/tree/master/0046-permutations) |
@@ -41,6 +42,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shivam-singh084/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
