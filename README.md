@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivam-singh084/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/shivam-singh084/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivam-singh084/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivam-singh084/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/shivam-singh084/leetcode/tree/master/0042-trapping-rain-water) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivam-singh084/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-singh084/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shivam-singh084/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/shivam-singh084/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
@@ -103,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shivam-singh084/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/shivam-singh084/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -175,6 +178,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-singh084/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shivam-singh084/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivam-singh084/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivam-singh084/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivam-singh084/leetcode/tree/master/0046-permutations) |
