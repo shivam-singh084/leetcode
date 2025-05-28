@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shivam-singh084/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -49,6 +50,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shivam-singh084/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,10 +204,12 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivam-singh084/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -223,4 +227,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
