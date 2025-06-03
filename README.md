@@ -36,6 +36,7 @@
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
+| [0978-valid-mountain-array](https://github.com/shivam-singh084/leetcode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shivam-singh084/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
