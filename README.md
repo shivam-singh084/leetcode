@@ -33,6 +33,7 @@
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shivam-singh084/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/shivam-singh084/leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
@@ -79,6 +80,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/shivam-singh084/leetcode/tree/master/0575-distribute-candies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
