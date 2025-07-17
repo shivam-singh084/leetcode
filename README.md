@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/shivam-singh084/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam-singh084/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivam-singh084/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/shivam-singh084/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/shivam-singh084/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivam-singh084/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivam-singh084/leetcode/tree/master/0040-combination-sum-ii) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/shivam-singh084/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/shivam-singh084/leetcode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
