@@ -34,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shivam-singh084/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
@@ -87,6 +88,7 @@
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivam-singh084/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
@@ -117,6 +119,7 @@
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Queue
@@ -221,6 +224,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/shivam-singh084/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shivam-singh084/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Memoization
@@ -246,6 +250,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -280,6 +285,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivam-singh084/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/shivam-singh084/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
