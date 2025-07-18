@@ -31,6 +31,7 @@
 | [0162-find-peak-element](https://github.com/shivam-singh084/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam-singh084/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shivam-singh084/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -84,6 +85,7 @@
 | [0037-sudoku-solver](https://github.com/shivam-singh084/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/shivam-singh084/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shivam-singh084/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -200,6 +202,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shivam-singh084/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
