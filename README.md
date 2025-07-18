@@ -20,6 +20,7 @@
 | [0051-n-queens](https://github.com/shivam-singh084/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shivam-singh084/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivam-singh084/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
@@ -215,6 +216,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shivam-singh084/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shivam-singh084/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
