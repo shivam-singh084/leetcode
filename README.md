@@ -53,6 +53,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | ------- |
 | [0135-candy](https://github.com/shivam-singh084/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Quickselect
 |  |
 | ------- |
