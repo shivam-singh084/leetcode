@@ -292,15 +292,18 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivam-singh084/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/shivam-singh084/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivam-singh084/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
@@ -344,4 +347,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivam-singh084/leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivam-singh084/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
