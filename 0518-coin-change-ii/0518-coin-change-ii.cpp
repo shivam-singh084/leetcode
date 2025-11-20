@@ -2,7 +2,7 @@ class Solution {
 public:
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        vector<vector<uint64_t>> dp(n+1, vector<uint64_t> (amount+1, 0));
+        vector<vector<unsigned long long>> dp(n+1, vector<unsigned long long> (amount+1, 0));
 
         for(int i = 0; i < n+1; i++){
             dp[i][0] = 1;
@@ -18,6 +18,6 @@ public:
                 }
             }
         }
-        return (long long)dp[n][amount];
+        return dp[n][amount];
     }
 };
