@@ -73,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/shivam-singh084/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shivam-singh084/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shivam-singh084/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/shivam-singh084/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -122,6 +123,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivam-singh084/leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/shivam-singh084/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam-singh084/leetcode/tree/master/0344-reverse-string) |
